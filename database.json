@@ -1,0 +1,566 @@
+{
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "a604"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh",
+      "id": "959b"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng",
+      "id": "9396"
+    },
+    {
+      "key": 4,
+      "value": "Bình Định",
+      "id": "4ef7"
+    },
+    {
+      "key": 5,
+      "value": "Bình Dương",
+      "id": "052b"
+    },
+    {
+      "key": 6,
+      "value": "Cần Thơ",
+      "id": "c2bd"
+    },
+    {
+      "key": 7,
+      "value": "Khánh Hòa",
+      "id": "8ff5"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML",
+      "id": "4ed8"
+    },
+    {
+      "key": 2,
+      "value": "CSS",
+      "id": "bbf1"
+    },
+    {
+      "key": 3,
+      "value": "JavaScript",
+      "id": "1c5a"
+    },
+    {
+      "key": 4,
+      "value": "Python",
+      "id": "8ef5"
+    },
+    {
+      "key": 5,
+      "value": "Java",
+      "id": "82b4"
+    },
+    {
+      "key": 6,
+      "value": "C#",
+      "id": "c727"
+    },
+    {
+      "key": 7,
+      "value": "Ruby",
+      "id": "0df3"
+    },
+    {
+      "key": 8,
+      "value": "PHP",
+      "id": "b45c"
+    },
+    {
+      "key": 9,
+      "value": "Angular",
+      "id": "a053"
+    },
+    {
+      "key": 10,
+      "value": "ReactJS",
+      "id": "b0f4"
+    },
+    {
+      "key": 11,
+      "value": "SQL",
+      "id": "5d33"
+    },
+    {
+      "key": 12,
+      "value": "TypeScript",
+      "id": "19d3"
+    },
+    {
+      "key": 13,
+      "value": "Swift",
+      "id": "3311"
+    },
+    {
+      "key": 14,
+      "value": "Kotlin",
+      "id": "17d8"
+    },
+    {
+      "key": 15,
+      "value": "Go",
+      "id": "75bf"
+    },
+    {
+      "key": 16,
+      "value": "Rust",
+      "id": "2de6"
+    },
+    {
+      "key": 17,
+      "value": "Scala",
+      "id": "fcc3"
+    },
+    {
+      "key": 18,
+      "value": "Dart",
+      "id": "3d2a"
+    },
+    {
+      "key": 19,
+      "value": "Perl",
+      "id": "e6fe"
+    },
+    {
+      "key": 20,
+      "value": "JSon",
+      "id": "a61e"
+    }
+  ],
+  "jobs": [
+    {
+      "idCompany": 1,
+      "name": "Frontend Developer (Angular/ReactJS)",
+      "tags": [
+        "ReactJS",
+        "Angular",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "We are looking for a passionate Frontend Developer who is excited about building highly performant web/mobile applications. As a member of our team, you will have the opportunity to work with talented colleagues on innovative projects that push the boundaries of what is possible. Our ideal candidate has experience with Angular and ReactJS, and is well-versed in software engineering principles, frameworks, and technologies. You should be comfortable in a fast-paced environment and possess strong problem-solving skills. Your role will involve collaborating with other developers, designers, and product managers to create seamless user experiences. You should have excellent communication skills and be capable of working both independently and as part of a team. If you have a passion for coding and a desire to continually improve your skills, we would love to hear from you.",
+      "status": true,
+      "createAt": "29-04-2023 28:28:17",
+      "id": "1",
+      "city": [
+        "Hà Nội",
+        "Đà Nẵng",
+        "Cần Thơ",
+        "Bình Định"
+      ],
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "idCompany": 2,
+      "name": "Backend Developer (Node.js/Python)",
+      "tags": [
+        "Node.js",
+        "Python",
+        "Django"
+      ],
+      "salary": "1200",
+      "description": "As a Backend Developer, you will be responsible for managing the interchange of data between the server and the users. Your role will focus on developing all server-side logic, defining and maintaining the central database, and ensuring high performance and responsiveness to requests from the frontend. You will work closely with our frontend developers to integrate user-facing elements with server-side logic. We are looking for someone who is proficient in Node.js and Python, and has experience with Django or other back-end frameworks. You should have a strong understanding of database management, web server technologies, and security compliance. If you are a team player who enjoys solving complex problems and creating efficient, scalable solutions, this role is perfect for you.",
+      "status": true,
+      "createAt": "01-05-2023 10:00:00",
+      "id": "2",
+      "city": [
+        "Hồ Chí Minh",
+        "Cần Thơ"
+      ],
+      "updateAt": "02-05-2023 15:30:00"
+    },
+    {
+      "idCompany": 3,
+      "name": "Full Stack Developer (JavaScript/PHP)",
+      "tags": [
+        "JavaScript",
+        "PHP",
+        "Laravel"
+      ],
+      "salary": "1100",
+      "description": "We are seeking a Full Stack Developer who is experienced in both client-side and server-side technologies. You will be responsible for designing, developing, and maintaining web applications that meet the needs of our clients. Our ideal candidate is proficient in JavaScript and PHP, with experience using frameworks such as Laravel and Vue.js. You should be familiar with front-end languages like HTML and CSS, and have a strong understanding of database management and server configurations. In this role, you will collaborate with cross-functional teams to deliver high-quality software solutions. We value creativity, attention to detail, and the ability to work under tight deadlines. If you are passionate about full-stack development and enjoy taking on new challenges, we encourage you to apply.",
+      "status": true,
+      "createAt": "05-05-2023 09:15:00",
+      "id": "3",
+      "city": [
+        "Hà Nội",
+        "Bình Định"
+      ],
+      "updateAt": "06-05-2023 11:45:00"
+    },
+    {
+      "idCompany": 4,
+      "name": "DevOps Engineer",
+      "tags": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "salary": "1300",
+      "description": "We are looking for a DevOps Engineer who is passionate about automating and managing the infrastructure of our systems. In this role, you will be responsible for deploying product updates, identifying production issues, and implementing integrations that meet our customers' needs. The ideal candidate has experience with containerization technologies like Docker and Kubernetes, and is familiar with cloud environments, particularly AWS. You should have a solid background in software engineering and be comfortable working in a fast-paced environment. Strong problem-solving skills and attention to detail are essential for this role. If you enjoy working with cutting-edge technologies and are committed to delivering high-quality solutions, we would love to have you on our team.",
+      "status": true,
+      "createAt": "10-05-2023 08:30:00",
+      "id": "4",
+      "city": [
+        "Đà Nẵng",
+        "Hồ Chí Minh",
+        "Khánh Hòa"
+      ],
+      "updateAt": "11-05-2023 16:20:00"
+    },
+    {
+      "idCompany": 5,
+      "name": "Data Scientist",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "salary": "1400",
+      "description": "We are seeking a Data Scientist to join our team and help us harness the power of data to drive business decisions. In this role, you will be responsible for analyzing large datasets, building predictive models, and translating data into actionable insights. You will work closely with our engineering and product teams to understand their data needs and develop solutions that improve our products and services. The ideal candidate has strong programming skills in Python, a deep understanding of machine learning algorithms, and experience with data visualization tools like Tableau or Power BI. You should be comfortable working with big data technologies and have excellent problem-solving skills. If you are passionate about data science and enjoy working in a collaborative environment, we encourage you to apply.",
+      "status": true,
+      "createAt": "15-05-2023 14:50:00",
+      "id": "5",
+      "city": [
+        "Hà Nội",
+        "Khánh Hòa"
+      ],
+      "updateAt": "16-05-2023 10:10:00"
+    },
+    {
+      "idCompany": 1,
+      "name": "Frontend Tech Lead (X2)",
+      "tags": [
+        "HTML",
+        "CSS",
+        "ReactJS"
+      ],
+      "salary": "1500",
+      "description": "Top 3 Reasons To Join Us: Attractive salary package, hybrid working mode, signing bonus for IT related positions. We are looking for a Frontend Tech Lead who will bring the best-performed user experience to our customers' digital transformations in fields such as eCommerce, online presence, and conversion. As a Frontend Tech Lead at Niteco, you ensure that our projects deliver innovative and effective frontend technical solutions that bring value to the customer’s business. You will review business requirements, design and implement frontend solutions with architectural guidelines in mind (secure, high-performing, scalable, extensible, flexible, simple). You will proactively provide recommendations of innovative solutions to clients' projects and identify new frontend technologies to lift up frontend development practices. You will lead, mentor, and coach Frontend Developers with best practices including coding standards, design patterns, unit tests, test, and deployment. You should have excellent knowledge of front-end technologies, including but not limited to HTML, CSS (SASS, LESS), various JS frameworks/libraries. You should have strong experience in single-page applications built on frameworks and libraries like ReactJS, AngularJS, or VueJS, and have excellent knowledge in critical rendering paths and performance tuning.",
+      "status": true,
+      "createAt": "29-04-2023 21:22:17",
+      "id": "6",
+      "city": [
+        "Hà Nội",
+        "Bình Định"
+      ],
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "idCompany": 2,
+      "name": "Backend Developer (Java/Spring)",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Hibernate"
+      ],
+      "salary": "1800",
+      "description": "We are looking for an experienced Backend Developer to join our growing team. You will be responsible for building and maintaining server-side logic, ensuring high performance and responsiveness to requests from the frontend. The ideal candidate has extensive experience in Java, Spring Boot, and Hibernate. You will work closely with frontend developers to integrate user-facing elements with server-side logic. Strong problem-solving skills and a keen understanding of database management are essential. This role offers an exciting opportunity to work on high-impact projects in a dynamic environment.",
+      "status": true,
+      "createAt": "02-05-2023 09:00:00",
+      "id": "7",
+      "city": [
+        "Hồ Chí Minh",
+        "Bình Dương"
+      ],
+      "updateAt": "03-05-2023 14:30:00"
+    },
+    {
+      "idCompany": 3,
+      "name": "DevOps Engineer",
+      "tags": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "salary": "2000",
+      "description": "We are seeking a skilled DevOps Engineer to automate and optimize our development and deployment processes. You will manage infrastructure, monitor system performance, and ensure security and scalability. The ideal candidate has hands-on experience with Docker, Kubernetes, and AWS. You will collaborate with developers to create continuous integration/continuous deployment (CI/CD) pipelines and improve system reliability. If you are passionate about building efficient systems and thrive in a fast-paced environment, this is the role for you.",
+      "status": false,
+      "createAt": "05-05-2023 11:00:00",
+      "id": "8",
+      "city": [
+        "Đà Nẵng",
+        "Bình Dương",
+        "Khánh Hòa"
+      ],
+      "updateAt": "06-05-2023 16:00:00"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Nguyen Van A",
+      "phone": "0912345671",
+      "email": "nguyenvana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Nguyen Van A. Hiện tại tôi đang là lập trình viên.",
+      "linkProject": "http://project-a.com",
+      "createAt": "01-05-2023 08:30:00",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "idCompany": 2,
+      "idJob": 5,
+      "name": "Tran Thi B",
+      "phone": "0912345672",
+      "email": "tranthib@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Tran Thi B. Hiện tại tôi đang là thiết kế đồ họa.",
+      "linkProject": "http://project-b.com",
+      "createAt": "01-05-2023 09:00:00",
+      "city": "Đà Nẵng"
+    },
+    {
+      "id": "3",
+      "idCompany": 3,
+      "idJob": 2,
+      "name": "Le Van C",
+      "phone": "0912345673",
+      "email": "levanc@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van C. Hiện tại tôi đang là quản lý dự án.",
+      "linkProject": "http://project-c.com",
+      "createAt": "01-05-2023 09:30:00",
+      "city": "Hồ Chí Minh"
+    },
+    {
+      "id": "4",
+      "idCompany": 4,
+      "idJob": 2,
+      "name": "Pham Thi D",
+      "phone": "0912345674",
+      "email": "phamthid@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Pham Thi D. Hiện tại tôi đang là nhà phát triển web.",
+      "linkProject": "http://project-d.com",
+      "createAt": "01-05-2023 10:00:00",
+      "city": "Cần Thơ"
+    },
+    {
+      "id": "5",
+      "idCompany": 5,
+      "idJob": 4,
+      "name": "Hoang Van E",
+      "phone": "0912345675",
+      "email": "hoangvane@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Hoang Van E. Hiện tại tôi đang là kỹ sư phần mềm.",
+      "linkProject": "http://project-e.com",
+      "createAt": "01-05-2023 10:30:00",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "6",
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Nguyen Thi F",
+      "phone": "0912345676",
+      "email": "nguyenthif@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Nguyen Thi F. Hiện tại tôi đang là chuyên viên tư vấn.",
+      "linkProject": "http://project-f.com",
+      "createAt": "01-05-2023 11:00:00",
+      "city": "Hải Phòng"
+    },
+    {
+      "id": "7",
+      "idCompany": 2,
+      "idJob": 1,
+      "name": "Vu Van G",
+      "phone": "0912345677",
+      "email": "vuvang@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Vu Van G. Hiện tại tôi đang là quản trị hệ thống.",
+      "linkProject": "http://project-g.com",
+      "createAt": "01-05-2023 11:30:00",
+      "city": "Đà Nẵng"
+    },
+    {
+      "id": "8",
+      "idCompany": 3,
+      "idJob": 1,
+      "name": "Dang Thi H",
+      "phone": "0912345678",
+      "email": "dangthih@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Dang Thi H. Hiện tại tôi đang là chuyên viên marketing.",
+      "linkProject": "http://project-h.com",
+      "createAt": "01-05-2023 12:00:00",
+      "city": "Hồ Chí Minh"
+    },
+    {
+      "id": "9",
+      "idCompany": 4,
+      "idJob": 2,
+      "name": "Bui Van I",
+      "phone": "0912345679",
+      "email": "buivani@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Bui Van I. Hiện tại tôi đang là chuyên viên nhân sự.",
+      "linkProject": "http://project-i.com",
+      "createAt": "01-05-2023 12:30:00",
+      "city": "Cần Thơ"
+    },
+    {
+      "id": "10",
+      "idCompany": 5,
+      "idJob": 3,
+      "name": "Tran Thi J",
+      "phone": "0912345680",
+      "email": "tranthij@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Tran Thi J. Hiện tại tôi đang là nhà phát triển ứng dụng.",
+      "linkProject": "http://project-j.com",
+      "createAt": "01-05-2023 13:00:00",
+      "city": "Hà Nội"
+    },
+    {
+      "id": "27f1",
+      "name": "Nguyễn Diệu Linh",
+      "phone": "0941240266",
+      "email": "nguyendieulinh@gmail.com",
+      "city": "Hà Nội",
+      "description": "d",
+      "linkProject": "d",
+      "idJob": "5",
+      "idCompany": "5",
+      "createAt": "09-08-2024 22:05:14"
+    }
+  ],
+  "companys": [
+    {
+      "companyName": "Công ty XYZ",
+      "phone": "0912345678",
+      "email": "contact@xyz.com",
+      "password": "abcdef",
+      "token": "abc123xyz456",
+      "image": "https://cdn-new.topcv.vn/unsafe/140x/https://static.topcv.vn/company_logos/TookgFfkXGVGSlPM3ZImR07Uz4UDNz5U_1681297674____f10a3ab84434a4d2e12e0e24b30090ba.png",
+      "id": "1",
+      "quantityPeople": 12,
+      "description": "Công ty XYZ cam kết mang đến các sản phẩm và dịch vụ công nghệ tiên tiến, đáp ứng nhu cầu đa dạng của khách hàng trên toàn khu vực Đông Nam Á. Với tầm nhìn chiến lược, chúng tôi liên tục đổi mới và cải tiến, nhằm nâng cao chất lượng và tối ưu hóa trải nghiệm người dùng. Đội ngũ nhân viên của chúng tôi luôn sẵn sàng học hỏi và phát triển, với một môi trường làm việc sáng tạo và năng động.",
+      "detail": "Mức lương cạnh tranh, nhiều cơ hội thăng tiến. Chế độ phúc lợi bao gồm bảo hiểm, nghỉ phép, và đào tạo.",
+      "address": "45 đường Nguyễn Trãi",
+      "workingTime": "T2 - T6",
+      "website": "https://xyz.com"
+    },
+    {
+      "companyName": "Công ty MNO",
+      "phone": "0987654321",
+      "email": "info@mno.com",
+      "password": "654321",
+      "token": "mnopqr789",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/cong-ty-tnhh-quan-ly-du-an-credo-a77d2490e9fa75e332eb9f7a725f1151-66ce8a051a474.jpg",
+      "id": "2",
+      "quantityPeople": 20,
+      "description": "MNO hướng tới mục tiêu trở thành nhà cung cấp giải pháp công nghệ hàng đầu thế giới, với trọng tâm là chất lượng và sự hài lòng của khách hàng. Chúng tôi không ngừng nỗ lực để mang lại những giá trị thiết thực thông qua các sản phẩm sáng tạo, đồng thời xây dựng một môi trường làm việc nơi mà mỗi cá nhân đều có cơ hội phát triển và tỏa sáng.",
+      "detail": "Môi trường làm việc quốc tế, cơ hội làm việc với các chuyên gia hàng đầu. Chế độ đãi ngộ hấp dẫn.",
+      "address": "67 đường Lê Lợi",
+      "workingTime": "T2 - T7",
+      "website": "https://mno.com"
+    },
+    {
+      "companyName": "Công ty DEF",
+      "phone": "0945678901",
+      "email": "contact@def.com",
+      "password": "def123",
+      "token": "def456ghi789",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/rfWPTs3SPq7Mfm2jdSskGZq4ALnAj7rB_1713242651____799fbd2892fb85fef88500b3b37e018e.png",
+      "id": "3",
+      "quantityPeople": 50,
+      "description": "DEF tự hào là một trong những công ty dẫn đầu trong lĩnh vực công nghệ với mục tiêu phát triển bền vững và cung cấp dịch vụ tối ưu cho khách hàng. Chúng tôi tin rằng với chiến lược phát triển lâu dài, công ty sẽ tiếp tục mang đến những giải pháp đột phá, nâng cao vị thế trên thị trường quốc tế. Sự thành công của chúng tôi được xây dựng dựa trên sự nỗ lực không ngừng nghỉ của toàn bộ đội ngũ nhân viên.",
+      "detail": "Môi trường làm việc thân thiện, hỗ trợ đào tạo và phát triển cá nhân.",
+      "address": "89 đường Hai Bà Trưng",
+      "workingTime": "T2 - CN",
+      "website": "https://def.com"
+    },
+    {
+      "companyName": "Công ty GHI",
+      "phone": "0923456789",
+      "email": "hello@ghi.com",
+      "password": "ghi123",
+      "token": "ghi789jkl012",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/BfcZHs2FN6WyuTQqOb33ng8dganWf9ow_1684895246____a42906a0a2840096a26ef138e91385bc.png",
+      "id": "4",
+      "quantityPeople": 30,
+      "description": "Công ty GHI cam kết cung cấp các dịch vụ tài chính chất lượng cao, hướng tới việc trở thành người dẫn đầu trong lĩnh vực của mình. Chúng tôi luôn lắng nghe và thấu hiểu nhu cầu của khách hàng, từ đó phát triển các sản phẩm và dịch vụ phù hợp. Đội ngũ nhân viên GHI được khuyến khích sáng tạo và cống hiến, với các chương trình đào tạo liên tục để nâng cao kỹ năng và kiến thức chuyên môn.",
+      "detail": "Chế độ lương thưởng cạnh tranh, bảo hiểm toàn diện, môi trường làm việc năng động.",
+      "address": "101 đường Hoàng Quốc Việt",
+      "workingTime": "T2 - T6",
+      "website": "https://ghi.com"
+    },
+    {
+      "companyName": "Công ty JKL",
+      "phone": "0934567890",
+      "email": "support@jkl.com",
+      "password": "jkl456",
+      "token": "jkl012mno345",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/kWGmNbPTHNjYa2lMmgkinbOxoc0ZuTlF_1675238478____82f34f475c37b41f09082b4f778edd1c.jpg",
+      "id": "5",
+      "quantityPeople": 15,
+      "description": "JKL hướng tới việc trở thành nhà tiên phong trong lĩnh vực công nghệ, không ngừng đổi mới để mang lại những sản phẩm và dịch vụ chất lượng cao. Chúng tôi tin rằng sự thành công bền vững phải dựa trên sự kết hợp giữa sáng tạo và chuyên nghiệp. Tại JKL, chúng tôi tạo ra một môi trường làm việc nơi mỗi cá nhân đều có thể phát triển và đóng góp vào sự phát triển chung của công ty.",
+      "detail": "Cơ hội phát triển nghề nghiệp, môi trường làm việc chuyên nghiệp, chế độ đãi ngộ tốt.",
+      "address": "123 đường Cầu Giấy",
+      "workingTime": "T2 - T7",
+      "website": "https://jkl.com"
+    },
+    {
+      "companyName": "Công ty PQR",
+      "phone": "0967890123",
+      "email": "admin@pqr.com",
+      "password": "pqr789",
+      "token": "pqr345stu678",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/vjuHI4U52tBcIiuGFwmUCeaRlx7861Xd_1712216747____1717237729abaf051ac0fd562369d76a.png",
+      "id": "6",
+      "quantityPeople": 8,
+      "description": "PQR tập trung vào việc cung cấp các dịch vụ tài chính và đầu tư hàng đầu, với cam kết mang lại giá trị cao nhất cho khách hàng. Chúng tôi xây dựng một môi trường làm việc chuyên nghiệp, nơi mọi người đều có cơ hội phát triển sự nghiệp. Với đội ngũ nhân viên tận tâm và có chuyên môn cao, PQR sẽ tiếp tục phát triển mạnh mẽ và đạt được những thành công mới trong tương lai.",
+      "detail": "Lương thưởng cạnh tranh, nhiều phúc lợi, môi trường làm việc thân thiện.",
+      "address": "56 đường Phạm Hùng",
+      "workingTime": "T2 - CN",
+      "website": "https://pqr.com"
+    },
+    {
+      "companyName": "Công ty STU",
+      "phone": "0978901234",
+      "email": "info@stu.com",
+      "password": "stu012",
+      "token": "stu678vwx901",
+      "image": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/5IDdtrnp73FHDPOU6ouekh2eZohAmOGN_1633144773____66e46b1c535127a656599db8b0fe1064.PNG",
+      "id": "7",
+      "quantityPeople": 25,
+      "description": "STU không ngừng phấn đấu để trở thành công ty hàng đầu trong việc phát triển các giải pháp công nghệ bền vững, thân thiện với môi trường. Chúng tôi tin rằng sự phát triển bền vững là chìa khóa cho sự thành công lâu dài. Với một môi trường làm việc sáng tạo, chúng tôi khuyến khích nhân viên đóng góp các ý tưởng mới và cùng nhau xây dựng một tương lai bền vững cho công ty và cộng đồng.",
+      "detail": "Chế độ lương thưởng và phúc lợi tốt, môi trường làm việc sáng tạo và đầy thử thách.",
+      "address": "789 đường Kim Mã",
+      "workingTime": "T2 - T6",
+      "website": "https://stu.com"
+    },
+    {
+      "id": "d621",
+      "companyName": "df",
+      "email": "tranvanb@gmail",
+      "phone": "ww",
+      "password": "tranvanb",
+      "token": "EiuM7Y5H9CmqTe4ii5AG"
+    },
+    {
+      "id": "8705",
+      "companyName": "d",
+      "email": "tranvanb@gmail.com",
+      "phone": "d",
+      "password": "tranvanb",
+      "token": "1xCzRmyw5jTuR6I0535J"
+    }
+  ]
+}
