@@ -1,0 +1,57 @@
+.layout-default-header{
+    // position: fixed;
+    // width: 100%;
+    // top: 0;
+    // left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    height: 80px;
+    padding: 0 130px;
+
+    &__logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            aspect-ratio: 4/3;
+            height: 50px;
+            width: 100px;
+            object-fit: cover;
+        }
+        h3{
+            margin-left: -10px;
+            color: #2181FF;
+            width: 200px;
+            font-size: 25px;
+        }
+    }
+    &__button{
+        padding-right:  20px;
+
+        &--login{
+            margin-right: 10px;
+        }
+    }
+}
+.layout-default__main{
+    padding: 0 150px;
+    margin: 30px 0;
+}
+
+.layout-default-footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #2181FF;
+    color: #fff;
+}
+
+.layout-default{
+    font-size: 15px;
+    line-height: 1.5;
+}
+

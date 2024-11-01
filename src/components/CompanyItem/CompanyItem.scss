@@ -1,0 +1,19 @@
+.company {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__img {
+        img {
+            width: 150px;
+            height: 150px;
+            aspect-ratio: 4/3;
+            object-fit: contain;
+        }
+    }
+
+    &__content {
+        margin-left: 15px;
+    }
+}
+
